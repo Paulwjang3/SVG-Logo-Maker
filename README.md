@@ -44,3 +44,7 @@ Download the copy of the repo and use the git clone command to save the file whe
 Make sure you have node.js and inquirer@8.2.4 installed before trying to run the application
 
 Once you have confirmed that the npms have been installed run the application from the terminal
+
+## DEMO
+
+https://drive.google.com/file/d/1m8rIbwxeo1NmrpD03Q3xqBd7F9J0uvUx/view
